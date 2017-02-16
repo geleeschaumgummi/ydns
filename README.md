@@ -1,1 +1,1 @@
-# ydns
+# Any/DNS
